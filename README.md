@@ -12,7 +12,7 @@ Build a simple e-commerce app to test **frontend-backend integration**, **state 
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repo
-https://github.com/DXT-Engineering/ecommerce-cart-test
+https://github.com/kazimahdeehasan/ecommerce-cart-test
 
 ### 2. Checkout a feature branch
 feature/{your_name}
@@ -71,3 +71,4 @@ simple-ecommerce-cart/
 - Ensure ports 3000 and 3001 are available.
 
 Good luck! 🚀
+
